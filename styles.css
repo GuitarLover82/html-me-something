@@ -15,6 +15,10 @@ div.images {
     font-style: italic;
 }
 img {
-    max-width: 100%;
+    width: 750px;
     height: auto;
+    margin-bottom: 150px;
+}
+p {
+    padding: 20px;
 }
